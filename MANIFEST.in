@@ -1,0 +1,6 @@
+include flaskr/schema.sql
+include flaskr/startup/startup.bat
+include flaskr/startup/startup2.bat
+graft flaskr/static
+graft flaskr/templates
+global-exclude *.pyc
