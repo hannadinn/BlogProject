@@ -1,5 +1,12 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/hannadinn/BlogProject)
 
+
+Open gitpod link
+Open new terminal with Ctrl Shift `
+Use "flask run"
+Open 5000 port (make public)
+
+
 Virtual Environment (venv) included in main branch. Extract and place venv folder in same folder structure with flaskr & instance folders
 # Initialization (Start venv)
 1) Open cmd prompt with python and cd to .\venv\Scripts folder
